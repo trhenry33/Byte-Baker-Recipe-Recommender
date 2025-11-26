@@ -9,5 +9,5 @@ Data files © Original Authors
 **Citation:**  
 Bodhisattwa Prasad Majumder*, Shuyang Li*, Jianmo Ni, Julian McAuley.  
 "Generating Personalized Recipes from Historical User Preferences."  
-EMNLP, 2019.
-[pdf] (https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf)
+EMNLP, 2019.  
+[pdf](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19c.pdf)
